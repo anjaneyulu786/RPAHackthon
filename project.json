@@ -1,0 +1,14 @@
+{
+  "name": "RPAHAckthon",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.1.2.0",
+  "projectVersion": "1.0.6692.38725",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
